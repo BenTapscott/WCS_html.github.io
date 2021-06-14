@@ -1,14 +1,23 @@
 h1{
-font-size: 30px;
-text-align: center;
-color: #FF9696
+    font-size: 30px;
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+    color: #B22222
+    }
+    
+h2{
+    font-size: 20px;
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+    color: #00BFFF
 }
-
+    
+    
 body{
-
-font-size: 16px;
-font-family: Helvetica, sans-serif;
-color: #242424;
-background-image: url(images/background2.png);
+    
+    font-size: 16px;
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+    color: #2F4F4F;
+    background-image: url(images/background2.png);
 }
-
